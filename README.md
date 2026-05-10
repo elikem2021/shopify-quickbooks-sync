@@ -1,3 +1,5 @@
+[![Maintained by Avalux](https://img.shields.io/badge/Maintained%20by-Avalux.io-3b82f6?style=flat-square)](https://avalux.io)
+
 # Shopify ↔ QuickBooks Online Sync
 
 > Open-source middleware that syncs Shopify orders, inventory adjustments, refunds, and customers into QuickBooks Online — the right way, with idempotent reconciliation, multi-currency support, and proper accrual accounting. Built and maintained by [Avalux](https://avalux.io) — an AI automation agency for SMB e-commerce, freight, and home services.
