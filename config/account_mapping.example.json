@@ -1,0 +1,26 @@
+{
+  "revenue": {
+    "default": "Sales of Product Income",
+    "by_product_type": {
+      "subscription": "Recurring Revenue",
+      "digital_download": "Digital Product Income",
+      "service": "Services Income"
+    }
+  },
+  "sales_tax": {
+    "ON_HST": "GST/HST Payable",
+    "BC_PST": "PST Payable",
+    "QC_GST_QST": "Quebec Tax Payable",
+    "default": "Sales Tax Payable"
+  },
+  "shipping_income": "Shipping Income",
+  "discount_expense": "Promotional Discounts",
+  "payment_processing_fees": {
+    "stripe": "Stripe Fees",
+    "shop_pay": "Shop Pay Fees",
+    "default": "Merchant Processing Fees"
+  },
+  "refunds": "Sales Refunds Contra",
+  "default_customer": "Shopify Online Store",
+  "deposit_account": "Shopify Payments Clearing"
+}
