@@ -1,0 +1,24 @@
+{
+  "name": "shopify-quickbooks-sync",
+  "version": "0.1.0",
+  "description": "Self-hosted Shopify ↔ QuickBooks Online sync middleware with line-item accuracy and idempotent replay",
+  "main": "src/webhook.js",
+  "scripts": {
+    "start": "node src/webhook.js",
+    "worker": "node src/worker.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0",
+    "node-fetch": "^2.7.0",
+    "pg": "^8.11.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elikem2021/shopify-quickbooks-sync"
+  },
+  "keywords": [
+    "shopify", "quickbooks", "qbo", "ecommerce", "accounting",
+    "integration", "middleware", "a2x-alternative", "bookkeep-alternative"
+  ]
+}
