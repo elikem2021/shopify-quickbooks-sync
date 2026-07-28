@@ -40,7 +40,7 @@ Every QBO transaction is tagged with its idempotency key in a custom field — r
 ## Quick start
 
 ```bash
-git clone https://github.com/elikem2021/shopify-quickbooks-sync
+git clone https://github.com/avalux-io/shopify-quickbooks-sync
 cd shopify-quickbooks-sync
 cp .env.example .env
 # fill in: SHOPIFY_SHOP, SHOPIFY_API_TOKEN, QBO_CLIENT_ID, QBO_CLIENT_SECRET, QBO_REFRESH_TOKEN, QBO_REALM_ID
@@ -90,8 +90,8 @@ We don't sell AI receptionists or AI booking or AI chatbots — we build the uns
 
 ## Avalux's other open source projects
 
-- [freight-eta-toolkit](https://github.com/elikem2021/freight-eta-toolkit) — Open-source freight broker visibility on Geotab, Samsara, and Motive APIs
-- [n8n-self-hosted-toolkit](https://github.com/elikem2021/n8n-self-hosted-toolkit) — Production n8n self-hosted setup for SMB ops automation
+- [freight-eta-toolkit](https://github.com/avalux-io/freight-eta-toolkit) — Open-source freight broker visibility on Geotab, Samsara, and Motive APIs
+- [n8n-self-hosted-toolkit](https://github.com/avalux-io/n8n-self-hosted-toolkit) — Production n8n self-hosted setup for SMB ops automation
 
 ## License
 
